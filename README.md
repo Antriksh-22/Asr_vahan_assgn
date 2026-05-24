@@ -171,6 +171,16 @@ python recompute_metrics.py --transcripts results/raw_transcripts.csv results_as
 | Deepgram | 25.0% | 80.0% | 11/20 | 45.0% | 0 | 64.8% | 33.9% | 4.8s |
 | AssemblyAI | 15.0% | 75.0% | 14/20 | 30.0% | 0 | 91.4% | 49.8% | 12.2s |
 
+## Result Visualizations
+
+### Raw ASR vs Production Pipeline LNA
+
+![Raw ASR vs corrected locality accuracy](docs/assets/lna_bar_graph.svg)
+
+### WER Distribution
+
+![WER histogram for Deepgram and AssemblyAI](docs/assets/wer_histogram.svg)
+
 ## Metrics
 
 - `WER`: Word Error Rate. Measures full transcript word mistakes.

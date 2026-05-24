@@ -1,0 +1,14 @@
+requests>=2.31
+python-dotenv>=1.0
+pandas>=2.0
+tabulate>=0.9
+
+# Local Whisper. This is the default open-source comparison model.
+openai-whisper>=20231117
+torch>=2.0
+
+# Optional Indic model adapter.
+transformers>=4.36
+torchaudio>=2.0
+soundfile>=0.12
+

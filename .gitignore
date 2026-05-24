@@ -1,0 +1,15 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Benchmark outputs are reproducible; keep the folder but not generated files.
+results/*.csv
+results/*.md
+!results/.gitkeep
+
+# Audio clips can be large; include them deliberately for final submission.
+data/recordings/*
+!data/recordings/.gitkeep
+

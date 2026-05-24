@@ -1,0 +1,163 @@
+{
+  "koramangala_quiet_hindi_01.wav": {
+    "transcript": "Haan bhai, main Koramangala mein rehta hoon, kaam paas mein chahiye.",
+    "locality": "Koramangala",
+    "condition": "quiet",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "easy"
+  },
+  "indiranagar_quiet_hinglish_02.wav": {
+    "transcript": "Mera area Indiranagar hai, metro ke paas hi rehta hoon.",
+    "locality": "Indiranagar",
+    "condition": "quiet",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "easy"
+  },
+  "whitefield_noisy_hindi_03.wav": {
+    "transcript": "Main Whitefield side rehta hoon, daily travel bahut hota hai.",
+    "locality": "Whitefield",
+    "condition": "noisy",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "easy"
+  },
+  "electronic_city_quiet_hinglish_04.wav": {
+    "transcript": "Actually main Electronic City mein hoon, phase one ke aas paas.",
+    "locality": "Electronic City",
+    "condition": "quiet",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "medium"
+  },
+  "marathahalli_noisy_hindi_05.wav": {
+    "transcript": "Haan, Marathahalli se call kar raha hoon, job nearby mile to accha hai.",
+    "locality": "Marathahalli",
+    "condition": "noisy",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "medium"
+  },
+  "jayanagar_quiet_hindi_06.wav": {
+    "transcript": "Main Jayanagar mein rehta hoon, morning shift chalega.",
+    "locality": "Jayanagar",
+    "condition": "quiet",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "easy"
+  },
+  "hsr_layout_phone_hinglish_07.wav": {
+    "transcript": "Mera location HSR Layout hai, interview online ho sakta hai kya?",
+    "locality": "HSR Layout",
+    "condition": "phone",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "medium"
+  },
+  "btm_layout_noisy_hindi_08.wav": {
+    "transcript": "BTM Layout ke paas rehta hoon, bus se aa jaunga.",
+    "locality": "BTM Layout",
+    "condition": "noisy",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "medium"
+  },
+  "silk_board_quiet_hinglish_09.wav": {
+    "transcript": "I stay near Silk Board, traffic ke wajah se late ho sakta hoon.",
+    "locality": "Silk Board",
+    "condition": "quiet",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "easy"
+  },
+  "bellandur_noisy_hindi_10.wav": {
+    "transcript": "Bellandur mein ghar hai mera, night shift bhi chalega.",
+    "locality": "Bellandur",
+    "condition": "noisy",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "medium"
+  },
+  "byatarayanapura_quiet_hindi_11.wav": {
+    "transcript": "Main Byatarayanapura mein rehta hoon, thoda door padta hai.",
+    "locality": "Byatarayanapura",
+    "condition": "quiet",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "hard"
+  },
+  "kadugondanahalli_noisy_hinglish_12.wav": {
+    "transcript": "Kadugondanahalli side mera room hai, location thoda confusing hai.",
+    "locality": "Kadugondanahalli",
+    "condition": "noisy",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "hard"
+  },
+  "rajarajeshwarinagar_quiet_hindi_13.wav": {
+    "transcript": "Rajarajeshwarinagar mein rehta hoon, wahan se commute kar lunga.",
+    "locality": "Rajarajeshwarinagar",
+    "condition": "quiet",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "hard"
+  },
+  "kothanur_dinne_noisy_hinglish_14.wav": {
+    "transcript": "Mera area Kothanur Dinne hai, nearby opening ho to batao.",
+    "locality": "Kothanur Dinne",
+    "condition": "noisy",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "hard"
+  },
+  "kengeri_upanagara_quiet_hindi_15.wav": {
+    "transcript": "Kengeri Upanagara mein ghar hai, main kal aa sakta hoon.",
+    "locality": "Kengeri Upanagara",
+    "condition": "quiet",
+    "language": "hindi",
+    "style": "normal",
+    "difficulty": "hard"
+  },
+  "thalaghattapura_noisy_hinglish_16.wav": {
+    "transcript": "I am from Thalaghattapura, bus route check karna padega.",
+    "locality": "Thalaghattapura",
+    "condition": "noisy",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "hard"
+  },
+  "hebbal_quiet_hindi_rushed_17.wav": {
+    "transcript": "Hebbal mein rehta hoon bhai, jaldi job chahiye.",
+    "locality": "Hebbal",
+    "condition": "quiet",
+    "language": "hindi",
+    "style": "rushed",
+    "difficulty": "easy"
+  },
+  "yelahanka_quiet_hinglish_rushed_18.wav": {
+    "transcript": "Yelahanka side stay karta hoon, immediately join kar sakta hoon.",
+    "locality": "Yelahanka",
+    "condition": "quiet",
+    "language": "hinglish",
+    "style": "rushed",
+    "difficulty": "easy"
+  },
+  "doddanekundi_quiet_hindi_whispered_19.wav": {
+    "transcript": "Doddanekundi mein rehta hoon, abhi dheere bol raha hoon.",
+    "locality": "Doddanekundi",
+    "condition": "quiet",
+    "language": "hindi",
+    "style": "whispered",
+    "difficulty": "hard"
+  },
+  "thanisandra_phone_hinglish_20.wav": {
+    "transcript": "Thanisandra is my area, phone pe network thoda weak hai.",
+    "locality": "Thanisandra",
+    "condition": "phone",
+    "language": "hinglish",
+    "style": "normal",
+    "difficulty": "medium"
+  }
+}
+

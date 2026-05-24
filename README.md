@@ -1,5 +1,11 @@
 # ASR Benchmark - Indian Conversational Speech
 
+## HLD:
+<img width="1540" height="1100" alt="image" src="https://github.com/user-attachments/assets/7ee7f95a-62a7-4fa1-a87f-2a133856fdf1" />
+
+## LLD:
+<img width="1831" height="1539" alt="image" src="https://github.com/user-attachments/assets/3c14badf-4646-406b-8019-eb91ab1e9427" />
+
 This project benchmarks ASR systems on self-recorded Bangalore locality utterances for a blue-collar hiring workflow. The primary business metric is whether the locality name is transcribed correctly, not just aggregate WER.
 
 ## Model Plan
@@ -69,10 +75,4 @@ Keep `results/report.md` under three pages. Lead with:
 3. Three concrete failures with ground truth vs model output.
 4. Caveats: single speaker, small sample size, limited noise profiles, compute/API constraints.
 
-
-
-<img width="1540" height="1100" alt="image" src="https://github.com/user-attachments/assets/7ee7f95a-62a7-4fa1-a87f-2a133856fdf1" />
-
-
-<img width="1831" height="1539" alt="image" src="https://github.com/user-attachments/assets/3c14badf-4646-406b-8019-eb91ab1e9427" />
 

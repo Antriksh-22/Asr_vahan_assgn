@@ -71,6 +71,6 @@ Keep `results/report.md` under three pages. Lead with:
 
 
 
-![alt text](<img width="1540" height="1100" alt="image" src="https://github.com/user-attachments/assets/3e64e505-1958-4c63-91bb-e01eeee449a4" />)
+(<img width="1540" height="1100" alt="image" src="https://github.com/user-attachments/assets/3e64e505-1958-4c63-91bb-e01eeee449a4" />)
 
-![alt text](<img width="1540" height="1100" alt="image" src="https://github.com/user-attachments/assets/215c2a5a-623d-4024-9f86-106dc9045587" />)
+(<img width="1540" height="1100" alt="image" src="https://github.com/user-attachments/assets/215c2a5a-623d-4024-9f86-106dc9045587" />)

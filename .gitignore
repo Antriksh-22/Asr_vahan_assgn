@@ -4,12 +4,8 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 
-# Benchmark outputs are reproducible; keep the folder but not generated files.
-results/*.csv
-results/*.md
+# Keep result files in the final submission.
 !results/.gitkeep
 
-# Audio clips can be large; include them deliberately for final submission.
-data/recordings/*
+# Include the 20 assignment recordings in the final submission.
 !data/recordings/.gitkeep
-

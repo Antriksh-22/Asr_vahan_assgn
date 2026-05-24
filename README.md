@@ -68,3 +68,9 @@ Keep `results/report.md` under three pages. Lead with:
 2. Locality Name Accuracy, then WER/CER.
 3. Three concrete failures with ground truth vs model output.
 4. Caveats: single speaker, small sample size, limited noise profiles, compute/API constraints.
+
+
+
+![alt text](https://excalidraw.com/?element=r_1_5917)
+
+![alt text](https://excalidraw.com/?element=r_99_3378)
